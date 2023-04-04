@@ -47,6 +47,8 @@ Downlaod the dataset from kaggle through provided link.Then, upload the dataset 
 7. Gradient Boosting Regression
 8. Xtreme Gradient Boosting
 # Conclusion
-
+- When we compare the root mean squared error and mean absolute error of all the models, the Random forest regression model has less root mean squared error & mean absolute error, ending with the R-squared of 97%. So, finally this model is the best for predicting the price of Spanish wine.        
+- The top key features that drive the price of the wine are: rating, year, wine, acidity, num_reviews.
+- The above data is also reinforced by the analysis done during bivariate analysis.
 
 
