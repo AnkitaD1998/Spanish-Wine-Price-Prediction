@@ -6,3 +6,14 @@ This dataset is related to red variants of spanish wines. The dataset describes 
 ## Data Description
 The dataset contains 7500 different types of red wines from Spain with 11 features that describe their price, rating, and even some flavor description. This study reviewed the literature and used the following 11 variables as explanatory variables:
 - winery: Winery name
+- wine: Name of the wine
+- year: Year in which the grapes were harvested
+- rating: Average rating given to the wine by the users [from 1-5]
+- num_reviews: Number of users that reviewed the wine
+- country: Country of origin [Spain]
+- region: Region of the wine
+- price: Price in euros [€]
+- type: Wine variety
+- body: Body score, defined as the richness and weight of the wine in your mouth [from 1-5]
+- acidity: Acidity score, defined as wine's “pucker” or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]
+- 
