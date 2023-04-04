@@ -20,3 +20,6 @@ The dataset contains 7500 different types of red wines from Spain with 11 featur
 - Exploratory Data Analysis (EDA): In this part we have done some EDA on the features to see the trend.
 - Data Preprocessing: In this part we went through each attributes and encoded the categorical features using pipeline.
 - Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so that we can get the best performing model for our project.
+# Project Files Description
+This Project includes 1 Jupyter notebook and 1 Pdf of presentation.
+- [Spanish Wine Price Prediction](https://github.com/AnkitaD1998/Spanish-Wine-Price-Prediction/blob/main/Wine%20price%20prediction.ipynb) - Includes Exploratory Data Analysis and all algorithms which are used in this project.
