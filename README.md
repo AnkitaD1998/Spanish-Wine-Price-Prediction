@@ -38,7 +38,15 @@ In this .ipynb file, we have -
 
 Downlaod the dataset from kaggle through provided link.Then, upload the dataset into the notebook and connect.
 # Algorithms
-
+1. Linear Regression
+2. Lasso Regression
+3. Ridge Regression
+4. Elastic net Regression
+5. Decision Tree Regression
+6. Random Forest Regression
+7. Gradient Boosting Regression
+8. Xtreme Gradient Boosting
+# Conclusion
 
 
 
