@@ -16,4 +16,3 @@ The dataset contains 7500 different types of red wines from Spain with 11 featur
 - type: Wine variety
 - body: Body score, defined as the richness and weight of the wine in your mouth [from 1-5]
 - acidity: Acidity score, defined as wine's “pucker” or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]
-- 
