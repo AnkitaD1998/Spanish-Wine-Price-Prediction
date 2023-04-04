@@ -32,7 +32,7 @@ First, click on the Spanish Wine Price Prediction, which is our working notebook
 In this .ipynb file, we have -
 - EDA on Spanish Wine Price prediction.
 - Outliers detection.
-- converting categorical variables into numerical variavles using encoder and passing through it into pipeline.
+- converting categorical variables into numerical variables using encoder and passing through it into pipeline.
 - Fitting different models through pipeline.
 2) _Kaggle Dataset_
 
