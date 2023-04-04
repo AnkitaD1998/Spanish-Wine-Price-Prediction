@@ -23,3 +23,12 @@ The dataset contains 7500 different types of red wines from Spain with 11 featur
 # Project Files Description
 This Project includes 1 Jupyter notebook and 1 Pdf of presentation.
 - [Spanish Wine Price Prediction](https://github.com/AnkitaD1998/Spanish-Wine-Price-Prediction/blob/main/Wine%20price%20prediction.ipynb) - Includes Exploratory Data Analysis and all algorithms which are used in this project.
+- [Spanish Wine Price Presentation](https://github.com/AnkitaD1998/Spanish-Wine-Price-Prediction/blob/main/Spanish%20Wine%20Price%20Prediction%20Project.pdf) - Includes pdf of the presentation of the project.
+## Execution Instruction
+The order of execution of the colab notebook is as follows:
+First, click on the Spanish Wine Price Prediction, which is our working notebook.
+In this .ipynb file, we have -
+-- EDA on Bike sharing demand prediction.
+
+
+
