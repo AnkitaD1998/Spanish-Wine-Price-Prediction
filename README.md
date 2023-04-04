@@ -16,3 +16,7 @@ The dataset contains 7500 different types of red wines from Spain with 11 featur
 - type: Wine variety
 - body: Body score, defined as the richness and weight of the wine in your mouth [from 1-5]
 - acidity: Acidity score, defined as wine's “pucker” or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]
+## Data Pipeline
+- Exploratory Data Analysis (EDA): In this part we have done some EDA on the features to see the trend.
+- Data Preprocessing: In this part we went through each attributes and encoded the categorical features using pipeline.
+- Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so that we can get the best performing model for our project.
