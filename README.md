@@ -28,7 +28,7 @@ This Project includes 1 Jupyter notebook and 1 Pdf of presentation.
 The order of execution of the colab notebook is as follows:
 First, click on the Spanish Wine Price Prediction, which is our working notebook.
 In this .ipynb file, we have -
--- EDA on Bike sharing demand prediction.
+- EDA on Bike sharing demand prediction.
 
 
 
