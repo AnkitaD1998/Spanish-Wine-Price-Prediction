@@ -26,7 +26,7 @@ This Project includes 1 Jupyter notebook and 1 Pdf of presentation.
 - [Spanish Wine Price Presentation](https://github.com/AnkitaD1998/Spanish-Wine-Price-Prediction/blob/main/Spanish%20Wine%20Price%20Prediction%20Project.pdf) - Includes pdf of the presentation of the project.
 ## Execution Instruction
 The order of execution of the colab notebook is as follows:
--1) Spanish Wine Price Prediction.ipynb
+1) _Spanish Wine Price Prediction.ipynb_
 
 First, click on the Spanish Wine Price Prediction, which is our working notebook.
 In this .ipynb file, we have -
@@ -34,7 +34,10 @@ In this .ipynb file, we have -
 - Outliers detection.
 - converting categorical variables into numerical variavles using encoder and passing through it into pipeline.
 - Fitting different models through pipeline.
+2) _Kaggle Dataset_
 
+Downlaod the dataset from kaggle through provided link.Then, upload the dataset into the notebook and connect.
+# Algorithms
 
 
 
